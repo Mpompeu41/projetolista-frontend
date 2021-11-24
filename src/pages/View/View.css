@@ -1,0 +1,11 @@
+.CssCard {
+    background-color: rgb(231, 126, 144);
+    display: flex;
+    justify-content: center;
+    margin-top: 5rem;
+    align-items: center;
+  }
+  
+  .cssbutton{
+    background-color: rgb(82, 58, 14);
+  }
